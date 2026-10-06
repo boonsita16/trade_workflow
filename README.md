@@ -13,6 +13,9 @@ A Python implementation of the exposure and P&L reports.
 	P&L. The report includes trade-level results, totals by book (Physical and
 	Hedge), and overall total P&L.
 
+The position aggregation and delta exposure approach is informed by [Position
+Aggregation & Delta Exposure | Energy Trading](https://a115.co.uk/position-aggregation-delta-exposure/).
+
 Run the workflow from the project root with:
 
 ```powershell
