@@ -1,7 +1,0 @@
-,ID,Book,Commodity,Delivery,Action,Qty,Price(£/MWh),SignedQty,Market Price(£/MWh),MtM_PnL(£)
-0,TR-001,Physical,NBPGas,January,Buy,500,25.0,500,27,1000.0
-1,TR-002,Physical,NBPGas,January,Sell,300,26.0,-300,27,-300.0
-2,TR-003,Hedge,NBPGas,January,Sell,150,25.5,-150,27,-225.0
-3,TR-004,Physical,NBPGas,February,Buy,400,24.0,400,26,800.0
-4,TR-005,Physical,NBPGas,February,Sell,320,25.0,-320,26,-320.0
-5,TR-006,Hedge,NBPGas,February,Sell,60,24.5,-60,26,-90.0

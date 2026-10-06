@@ -1,7 +1,0 @@
-﻿ID,Book,Commodity,Delivery,Action,Qty,Price(£/MWh)
-TR-001,Physical,NBPGas,January,Buy,500,25
-TR-002,Physical,NBPGas,January,Sell,300,26
-TR-003,Hedge,NBPGas,January,Sell,150,25.5
-TR-004,Physical,NBPGas,February,Buy,400,24
-TR-005,Physical,NBPGas,February,Sell,320,25
-TR-006,Hedge,NBPGas,February,Sell,60,24.5
